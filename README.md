@@ -30,6 +30,7 @@ Before Clean Up
 
 After Clean Up
 
+![Top_Schools](https://github.com/vvinci21/School_District_Analysis/blob/e00bf400961f85ece7aa277e598931eef788468d/Resources/Clean_topschool%202.png)
 
 ### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
