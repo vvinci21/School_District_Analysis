@@ -1,4 +1,4 @@
-# School District_Analysis
+# School District Analysis
 
 ## Overview of the school district analysis: Explain the purpose of this analysis.
 
